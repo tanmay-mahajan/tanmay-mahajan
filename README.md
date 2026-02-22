@@ -62,7 +62,9 @@ Authentication + role-based access + vote counting.
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/tanmay-mahajan/tanmay-mahajan/blob/output/github-contribution-grid-snake.svg)
+
+
+![Snake animation](https://raw.githubusercontent.com/tanmay-mahajan/tanmay-mahajan/output/github-contribution-grid-snake.svg)
 
 ---
 
