@@ -3,15 +3,9 @@
 🎓 MCA Student | Backend Developer  
 💻 Java • Python • SQL  
 📍 Pune, India  
-🚀 Focused on DSA & Scalable Backend Systems  
+🚀 Focused on Scalable Systems  
 
----
 
-## 🧠 DSA Progress
-
-- 🔥 Actively solving problems on LeetCode  
-- 📈 Target: 500+ Problems  
-- 💡 Strong focus on Arrays, Recursion, Linked List, Trees  
 
 ---
 
